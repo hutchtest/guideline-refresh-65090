@@ -5,3 +5,7 @@ export function greet(name: string): string {
 export function welcomeGuest(name: string): string {
   return `Welcome, ${name}`;
 }
+
+export function farewellGuest(name: string) {
+  return `Goodbye, ${name}`;
+}
