@@ -6,6 +6,6 @@ export function welcomeGuest(name: string): string {
   return `Welcome, ${name}`;
 }
 
-export function farewellGuest(name: string) {
+export function farewellGuest(name: string): string {
   return `Goodbye, ${name}`;
 }
