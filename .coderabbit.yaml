@@ -1,0 +1,12 @@
+language: en-US
+reviews:
+  profile: assertive
+  poem: false
+  auto_review:
+    enabled: true
+    drafts: false
+knowledge_base:
+  code_guidelines:
+    enabled: true
+    filePatterns:
+      - '**/AGENTS.md'
